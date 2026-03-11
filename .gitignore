@@ -1,6 +1,9 @@
 # Build directories
 build
 
+# vim
+*swp
+
 # output & cache
 .cache
 a.out
