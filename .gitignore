@@ -1,9 +1,6 @@
 # Build directories
-build/
-Build/
-build-*/
+build
 
-# CMake generated files
-
-# test output & cache
+# output & cache
 .cache
+a.out
