@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/jorge/Documents/misc/build/tests",
+  "command": "/usr/bin/c++   -std=gnu++17 -arch arm64 -o CMakeFiles/cases.dir/cases.cpp.o -c /Users/jorge/Documents/misc/tests/cases.cpp",
+  "file": "/Users/jorge/Documents/misc/tests/cases.cpp",
+  "output": "tests/CMakeFiles/cases.dir/cases.cpp.o"
+}
+]
