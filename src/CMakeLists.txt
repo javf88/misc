@@ -2,11 +2,14 @@
 # Define libraries
 #*******************************************************************************
 
-# Parser
-add_library(parser INTERFACE)
+# File
+add_library(file INTERFACE)
 
-target_include_directories(parser
+target_include_directories(file
     INTERFACE ${CMAKE_CURRENT_SOURCE_DIR})
 
-#target_link_libraries(parser
-#    INTERFACE log)
+# Option reader
+#add_library(reader INTERFACE)
+
+#target_include_directories(reader
+#    INTERFACE ${CMAKE_CURRENT_SOURCE_DIR})
