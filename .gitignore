@@ -1,9 +1,9 @@
 # Build directories
-build/
-Build/
-build-*/
+build
 
-# CMake generated files
+# vim
+*swp
 
-# test output & cache
+# output & cache
 .cache
+a.out
